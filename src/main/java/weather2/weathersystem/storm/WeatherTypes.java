@@ -100,8 +100,8 @@ public class WeatherTypes {
         //sConf.tornadoInitialSpeed = 0.15F;
         sConf.tornadoPullRate = 0.15F;
         sConf.tornadoLiftRate = 0.04F;
-        sConf.relTornadoSize = -105;
-        //sConf.tornadoBaseSize = 155;
+        sConf.relTornadoSize = -1005;
+        //sConf.tornadoBaseSize = 1550;
         sConf.tornadoWidthScale = 3.5F;
         //sConf.tornadoTime = 4500;
         sConf.type = 2;
